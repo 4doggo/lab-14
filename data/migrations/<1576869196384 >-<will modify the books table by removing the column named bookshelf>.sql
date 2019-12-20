@@ -1,0 +1,1 @@
+--Query 5: ALTER TABLE books DROP COLUMN bookshelf;
